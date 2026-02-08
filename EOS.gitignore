@@ -1,0 +1,20 @@
+# EOS - outputs (contiene datos sensibles)
+output/
+*.json
+*.html
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
